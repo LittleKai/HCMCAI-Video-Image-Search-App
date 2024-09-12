@@ -1,5 +1,5 @@
 # HCMCAI-Video-Image-Search-App
-![Demo Image 1](figs/1.jfif)
+![Demo Image 1](figs/1.png)
 
 An image search application based on textual features input by users through the UI.
 
