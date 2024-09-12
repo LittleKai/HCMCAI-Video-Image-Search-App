@@ -1,0 +1,1 @@
+ D:\\Others_Project\\HCMCAI_Video_Search_App\\front_end\\video_search_app\\.dart_tool\\flutter_build\\2e0ebd823810498b6a570b38e9c46b3b\\native_assets.yaml: 

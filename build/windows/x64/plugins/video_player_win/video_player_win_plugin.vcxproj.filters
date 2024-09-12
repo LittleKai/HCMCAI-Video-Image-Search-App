@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\video_player_win_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\video_player_win_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\my_grabber_player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\Activate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\ClassFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\DLLMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\Marker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\MediaSink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\Presenter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\Scheduler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\StreamSink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\DX11VideoRenderer\display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\include\video_player_win\video_player_win_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\video_player_win_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\ephemeral\.plugin_symlinks\video_player_win\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7410CD99-100F-373F-AE6F-25E88AD71D17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AC696A47-9A60-33A8-9B59-C778794F7580}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

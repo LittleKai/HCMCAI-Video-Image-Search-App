@@ -1,0 +1,14 @@
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/CMakeFiles/video_search_app.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/plugins/video_player_win/CMakeFiles/video_player_win_DEPENDENCIES_DOWNLOAD.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/plugins/video_player_win/CMakeFiles/video_player_win_plugin.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/plugins/video_player_win/CMakeFiles/INSTALL.dir
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/plugins/video_player_win/CMakeFiles/ALL_BUILD.dir

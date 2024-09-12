@@ -1,0 +1,10 @@
+^D:\OTHERS_PROJECT\HCMCAI_VIDEO_SEARCH_APP\FRONT_END\VIDEO_SEARCH_APP\BUILD\WINDOWS\X64\CMAKEFILES\064434A1446CC79D1D3FCCF9B32352C5\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

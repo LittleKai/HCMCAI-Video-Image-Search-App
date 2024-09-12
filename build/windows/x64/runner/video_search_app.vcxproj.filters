@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Others_Project\HCMCAI_Video_Search_App\front_end\video_search_app\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AC696A47-9A60-33A8-9B59-C778794F7580}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

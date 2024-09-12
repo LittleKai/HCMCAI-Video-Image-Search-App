@@ -1,0 +1,10 @@
+^D:\OTHERS_PROJECT\HCMCAI_VIDEO_SEARCH_APP\FRONT_END\VIDEO_SEARCH_APP\BUILD\WINDOWS\X64\CMAKEFILES\064434A1446CC79D1D3FCCF9B32352C5\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/windows -BD:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/video_search_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

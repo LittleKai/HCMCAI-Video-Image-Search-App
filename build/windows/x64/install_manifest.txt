@@ -1,0 +1,12 @@
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/video_player_win_plugin.dll
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/packages/wakelock_plus/assets/no_sleep.js
+D:/Others_Project/HCMCAI_Video_Search_App/front_end/video_search_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
